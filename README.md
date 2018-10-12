@@ -1,3 +1,7 @@
 # CruzipainaML
 
-Scripts de optimización de algoritmos de ML para Cruzipaina
+Scripts de análisis exploratorio para Cruzipaina
+
+###PCA
+###Heatmaps
+####Heatmaps con clusterizado
